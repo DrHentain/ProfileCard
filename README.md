@@ -1,3 +1,3 @@
 # ProfileCard
 
-<img scr="PAPKA/profile.png.png">
+<img scr="PAPKA/profile.png">

@@ -1,4 +1,4 @@
 # ProfileCard
 
 <h2>Profile card</h2>
-<img scr="profile.png">
+<img scr="Downloads/profile.png">
